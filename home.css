@@ -41,12 +41,28 @@ header{
     background-size: cover;
     background-size: 100% 450px;
 }
+/*Quick Search Section1*/
+#quickSearch1{
+    height:150px;
+    width: 100%;
+}
 
 /*Quick Search Section*/
 #quickSearch{
     height: 600px;
     width: 100%;
-    border: 2px solid orange;
+    /* border: 2px solid orange; */
+}
+
+.dish{
+    height: 300px;
+    width: 100%;
+}
+#dishes{
+    height:600px; 
+    width:25%; 
+    float: left;
+
 }
 /*Footer section*/
 footer{
