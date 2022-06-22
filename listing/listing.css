@@ -58,7 +58,7 @@ header{
 }
 
 .filterDiv{
-    height:1000px;
+    height:700px;
     width:20%;
     border:2px solid gray;
     float:left;
@@ -71,7 +71,7 @@ header{
 }
 .checkbox{
     vertical-align: middle;
-    display: inline-block;
+    /* display: inline-block; */
     align-items: center;
 }
 .contentDiv{
